@@ -1,4 +1,4 @@
-# Welcome to [**ctlst-tech**] GitHub Pages
+# Welcome to **ctlst-tech** GitHub Pages
 
 Company's website: https://ctlst.tech
 
